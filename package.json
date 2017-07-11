@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "acetate": "1.0.0",
-    "acetate-cli": "1.0.0"
+    "acetate-cli": "1.0.1"
   },
   "keywords": [
     "acetate",
